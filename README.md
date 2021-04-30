@@ -1,9 +1,16 @@
 # dla
-Diffusion-Limited Aggregation 
+## Diffusion-Limited Aggregation
 
-riffing on code originally from Shiffman Coding train 
+![dla.png](dla.png)
+
+
+https://greggelong.github.io/dla
+
+I am riffing on code originally from Shiffman Coding train 
 
 coding challenge 34
+
+I have created a version without just using vectors not objects for the dots.
 
 dla while loop sketch doesn't animate the other dots and will crash the browser with 
 
